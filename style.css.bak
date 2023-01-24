@@ -1,0 +1,29 @@
+*{margin :0;padding:0;outline:0}
+body{font-family:arial;font-size:14px;line-height:18px;color:#000;}
+
+.template{width:960px;margin :0 auto;}
+.Headersection{height:85px; background:#012E58;color:#fff;}
+.Headersectionh2{    height: 85px;
+    background: #012E58;
+    color: #fff;
+	font-size:40px;
+    padding-top: 31px;
+    text-align: center;
+	}
+.Navsection{height:30px;color:#A0C6E8;padding-left:50px;font-size:30px;}
+.Navsection p{display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;}
+.contentsection{}
+.maincontent{}
+.maincontent p{}
+.sidebar{}
+.sidebar p{}
+
+.footersection{height:50pxpx;background:#5BB734;color:#800517;}
+.footersection p{height:85px;}
+
+
+
